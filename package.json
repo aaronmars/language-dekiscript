@@ -2,7 +2,6 @@
   "name": "language-dekiscript",
   "version": "0.0.1",
   "description": "DekiScript language support in Atom",
-  "activationEvents": ["language-dekiscript:toggle"],
   "repository": {
     "type": "git",
     "url": "https://github.com/aaronmars/language-dekiscript"
@@ -10,7 +9,5 @@
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
-  },
-  "dependencies": {
   }
 }
